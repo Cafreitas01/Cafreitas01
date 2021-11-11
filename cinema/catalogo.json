@@ -1,0 +1,36 @@
+{
+    "catalogo": [
+      {
+          "id": 1,
+          "titulo": "Mr.s magoo",
+          "duracao": 147,
+          "atores": ["Magoo", "Adam", "Wisley"],
+          "anoDeLancamento": 2017,
+          "emCartaz": false
+        },
+        {
+          "id": 2,
+          "titulo": "Batman",
+          "duracao": 240,
+          "atores": ["Bruce Wayne", "Coringa", "Bane"],
+          "anoDeLancamento": 2021,
+          "emCartaz": false
+        },
+        {
+          "id": 3,
+          "titulo": "Homem-aranha no multiverso",
+          "duracao": 90,
+          "atores": ["Peter Paker", "Peter Paker", "Peter Paker", "Dr. Octopus"],
+          "anoDeLancamento": 2021,
+          "emCartaz": false
+        },
+        {
+          "id": 4,
+          "titulo": "Dois filhos de Franciso",
+          "duracao": 60,
+          "atores": ["Zezé", "Luciano", "Oportunista"],
+          "anoDeLancamento": 1910,
+          "emCartaz": false
+        }
+    ]
+  }
